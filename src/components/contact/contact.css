@@ -1,0 +1,24 @@
+.contact{
+  margin-top: 15%;
+  height: 500px;
+}
+
+.contactPanel{
+  display: flex;
+  margin: auto;
+  width: 800px;
+  height: 200px;
+}
+
+.icon{
+  margin: auto;
+}
+
+.icon img{
+  background-color: #d4c2fc;;
+  border-radius: 100px;
+  box-shadow: 0 3px 5px 0 rgb(123, 121, 121), 0 0 0 0.1px rgb(86, 83, 83);
+  justify-content: center;
+  height: 100px;
+  width: 100px;
+}

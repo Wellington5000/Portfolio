@@ -1,0 +1,30 @@
+.grid {
+  margin: auto;
+  justify-content: center;
+	display: grid;
+  width: 700px;
+  height: 750px;
+  gap: 10px 50px;
+}
+
+.grid-template-columns {
+	grid-template-columns: repeat(3, 1fr);
+}
+
+.item {
+  color: #f9f5ff;
+  width: 350px;
+  height: 280px;
+	background: #28262c;
+	text-align: center;
+	font-size: 1.5em;
+  box-shadow: 0 3px 5px 0 rgb(123, 121, 121), 0 0 0 0.1px rgb(86, 83, 83);
+  border-radius: 5px;
+}
+
+.item img{
+  margin-top: 5%;
+  width: 320px;
+  height: 200px;
+  box-shadow: 0 3px 5px 0 rgb(93, 93, 93), 0 0 0 0.1px rgb(255, 255, 255);
+}

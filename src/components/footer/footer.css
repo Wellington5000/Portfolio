@@ -1,0 +1,23 @@
+.footer{
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.footerPanel{
+  margin: auto;
+  border-radius: 5px;
+  display: flex;
+}
+
+.footerLine{
+  margin-left: 60px;
+  margin-top: 1%;
+  height: 1px;
+  background-color: #28262c;
+  width: 750px;
+}
+
+.footer p{
+  color: #28262c;
+  margin-top: 1%;
+}

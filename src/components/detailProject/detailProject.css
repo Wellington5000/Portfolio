@@ -1,0 +1,14 @@
+.detailProject{
+  text-align: center;
+  color: #28262c;
+  font-size: 20px;
+}
+
+.detailProject img{
+  margin-top: 2%;
+  margin-bottom: 5%;
+  width: 1000px;
+  height: 600px;
+  border-radius: 20px;
+  box-shadow: 0 5px 5px 0 rgb(29, 29, 29), 0 0 0 0.1px rgb(42, 42, 42);
+}

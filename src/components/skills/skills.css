@@ -1,0 +1,16 @@
+.skills{
+  margin-top: 15%;
+  height: 700px;
+}
+
+.skillPanel{
+  font-size: 18px;
+  padding: 20px;
+  color: #28262c; 
+  margin: auto;
+  height: 600px;
+  width: 750px;
+  background-color: #d4c2fc;
+  box-shadow: 0 3px 5px 0 rgb(84, 84, 84), 0 0 0 0.1px rgb(86, 83, 83);
+  border-radius: 5px;
+}
