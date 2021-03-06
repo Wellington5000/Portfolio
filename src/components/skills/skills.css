@@ -10,7 +10,7 @@
   margin: auto;
   height: 600px;
   width: 750px;
-  background-color: #d4c2fc;
+  background-color: rgb(113, 213, 194);
   box-shadow: 0 3px 5px 0 rgb(84, 84, 84), 0 0 0 0.1px rgb(86, 83, 83);
   border-radius: 5px;
 }

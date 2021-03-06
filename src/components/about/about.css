@@ -47,7 +47,7 @@ h2{
     margin-bottom: 20px;
     font-size: 15px;
     padding: 15px;
-    height: 190px;
+    height: auto;
     width: 350px;
     background-color: rgb(113, 213, 194);
   }
