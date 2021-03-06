@@ -28,3 +28,24 @@
   height: 200px;
   box-shadow: 0 3px 5px 0 rgb(93, 93, 93), 0 0 0 0.1px rgb(255, 255, 255);
 }
+
+
+@media (max-width: 858px){
+  .grid{
+    width: 350px;
+    gap: 40px;
+    grid-template-columns: repeat(1, 1fr);
+    margin-bottom: 1200px;
+  }
+
+  .item{
+    width: 320px;
+    height: 260px;
+    font-size: 19px;
+  }
+
+  .item img{
+    width: 290px;
+    height: 200px;
+  }
+}

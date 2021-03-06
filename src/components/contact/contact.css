@@ -22,3 +22,18 @@
   height: 100px;
   width: 100px;
 }
+
+@media (max-width: 858px){
+  .contact{
+    height: 350px;
+  }
+
+  .contactPanel{
+    width: 350px  ;
+  }
+
+  .icon img{
+    height: 50px;
+    width: 50px;
+  }
+}

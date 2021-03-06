@@ -14,3 +14,15 @@
   box-shadow: 0 3px 5px 0 rgb(84, 84, 84), 0 0 0 0.1px rgb(86, 83, 83);
   border-radius: 5px;
 }
+
+@media (max-width: 858px){
+  .skills{
+    margin-bottom: 300px;
+  }
+
+  .skillPanel{
+    font-size: 15px;
+    width: 320px;
+    height: auto;
+  }
+}

@@ -21,10 +21,9 @@
 
 @media (max-width: 858px){
   .presentation{
-    margin-top: 20%;
     font-size: 15px;
     width: 350px;
-    margin-left: 1%;
+    margin: 20% auto;
   }
 
   .presentation img{

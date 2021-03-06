@@ -21,3 +21,10 @@
   color: #28262c;
   margin-top: 1%;
 }
+
+@media (max-width: 858px){
+  .footerLine{
+    margin-right: 30px;
+    margin-left: 30px;
+  }
+}

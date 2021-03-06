@@ -12,3 +12,15 @@
   border-radius: 20px;
   box-shadow: 0 5px 5px 0 rgb(29, 29, 29), 0 0 0 0.1px rgb(42, 42, 42);
 }
+
+@media (max-width: 858px){
+  .detailProject{
+    font-size: 16px;
+  }
+
+  .detailProject img{
+    width: 320px;
+    height: 250px;
+    margin-bottom: 10%;
+  }
+}
