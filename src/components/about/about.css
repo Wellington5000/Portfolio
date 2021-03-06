@@ -54,3 +54,9 @@ h2{
 .highlightB{
   color: #14248A;
 }
+
+@media (max-width: 858px){
+  #about{
+    margin-top: 150px;
+  }
+}
