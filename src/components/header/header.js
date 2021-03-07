@@ -3,15 +3,15 @@ import './header.css'
 
 const Header = () => {
   return(
-    <div>
+    <div className='header'>
       <nav>
         <input type="checkbox" id="check" />
         <label htmlFor="check" className="checkbtn">
           <i className="fas fa-bars"></i>
         </label>
         <label class="logo"> Portifólio </label>
-        <ul>
-          <li> <a href="mailto:wellingtonsantos5000@gmail.com">Home</a> </li>
+        <ul id="teste">
+          <li> <a href="#presentation">Home</a> </li>
           <li> <a href="#about">About</a> </li>
           <li> <a href="#skills">Skills</a> </li>
           <li> <a href="#projects">Projects</a> </li>

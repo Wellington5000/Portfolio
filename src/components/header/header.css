@@ -1,7 +1,9 @@
 nav{
+  position: fixed;
   background: #28262c;
   height: 80px;
   width: 100%;
+  top: 0;
 }
 
 label.logo{

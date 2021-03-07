@@ -1,3 +1,8 @@
+#projects{
+  padding-top: 100px;
+  margin-top: 5%;
+}
+
 .grid {
   margin: auto;
   justify-content: center;
@@ -35,7 +40,7 @@
     width: 350px;
     gap: 40px;
     grid-template-columns: repeat(1, 1fr);
-    margin-bottom: 1200px;
+    margin-bottom: 1100px;
   }
 
   .item{

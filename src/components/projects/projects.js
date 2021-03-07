@@ -27,18 +27,6 @@ const Projects = () => {
             <h3>Robot Auction</h3>
           </div>
         </a>
-        <div className="item">
-          <img src='https://image.freepik.com/vetores-gratis/jovem-usando-o-computador-na-mesa-trabalhando-ilustracao-online_24877-69117.jpg' alt="" />
-          <h3>Virtual Store</h3>
-        </div>
-        <div className="item">
-          <img src='https://image.freepik.com/vetores-gratis/homem-novo-feliz-que-trabalha-no-laptop-para-pesquisar-trabalhos-autonomos-no-computador-usando-a-internet-ilustracao-desenhado-a-mao-do-estilo_76775-293.jpg' alt="" />
-          <h3>Virtual Store</h3>
-        </div>
-        <div className="item">
-          <img src={imageLogo} alt="" />
-          <h3>Virtual Store</h3>
-        </div>
       </section>
     </div>
   )

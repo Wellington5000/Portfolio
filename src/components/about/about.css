@@ -1,7 +1,7 @@
 #about{
-  margin-top: 420px;
   height: 750px;
-  margin-bottom: 10%;
+  padding-top: 100px;
+  margin-top: 5%;
 }
 
 h2{
@@ -16,13 +16,13 @@ h2{
   color: #28262c;
   font-size: 23px;
   margin: auto;
-  background-color: #d4c2fc;
-  height: 200px;
+  margin-bottom: 20px;
+  background-color: rgb(113, 213, 194);
+  height: auto;
   width: 700px;
   box-shadow: 0 3px 5px 0 rgb(84, 84, 84), 0 0 0 0.1px rgb(86, 83, 83);
   border-radius: 15px;
 }
-
 
 .highlightY{
   color: #14248A;
